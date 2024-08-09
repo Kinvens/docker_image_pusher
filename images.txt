@@ -1,1 +1,1 @@
---platform=linux/amd64 snowdreamtech/frpc 
+snowdreamtech/frpc
